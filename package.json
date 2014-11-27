@@ -1,0 +1,17 @@
+{
+  "name": "gocsp-once",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --harmony test"
+  },
+  "author": "gyson <eilian.yunsong@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^3.0.3"
+  },
+  "dependencies": {
+    "gocsp-thunk": "0.0.5"
+  }
+}
